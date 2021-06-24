@@ -1,0 +1,15 @@
+{
+  "setDetails": {
+    "chainId": 1,
+    "setName": "Sentiment Optimized Digital Asset Index",
+    "setSymbol": "SODA",
+    "setDecimals": 18,
+    "setIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/tokens/GCDA_Bull.PNG",
+    "setDescription": "The SODA Index allows you to invest in the Liquidity Leaders on Uniswap, with one token, while also benefiting from Sentiment & Volatility-based rebalancing.",
+   ",
+    "managerName": "HodlTradeCrypto.com",
+    "managerIcon": "https://raw.githubusercontent.com/SetProtocol/uniswap-tokenlist/main/assets/managers/SODA_Logo.png",
+    "managerDescription": "HODL_TRADE_CRYPTO evaluates crypto-native projects Liquidity, Volatility and Sentiment Analysis"
+  },
+  "version":
+}
